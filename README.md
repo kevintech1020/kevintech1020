@@ -45,8 +45,8 @@ I’m a developer who has passion for building clean web applications with intui
       <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
       <td><img src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
+      <td><img src="https://brandeps.com/icon-download/J/Jquery-icon-vector-02.svg" width="200"></td>
+      <td><img src="https://brandeps.com/logo-download/A/AJAX-Language-logo-vector-01.svg" width="200"></td>
   </tr>
   <tr>
     <td><img src="https://brandeps.com/icon-download/R/React-icon-vector-05.svg" width="200"/></td>
@@ -57,9 +57,13 @@ I’m a developer who has passion for building clean web applications with intui
     <td><img src="https://brandeps.com/icon-download/T/Typescript-icon-vector-02.svg" width="200"/></td>
     <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
     <td><img src="https://brandeps.com/logo-download/E/ES6-logo-vector-01.svg" width="200"/></td>
-    <td><img src="https://brandeps.com/icon-download/J/Jquery-icon-vector-02.svg" width="200"/></td>
     <td><img src="https://brandeps.com/icon-download/B/Bitbucket-icon-vector-04.svg" width="200"/></td>
-    <td><img src="https://brandeps.com/icon-download/A/Aws-icon-vector-01.svg" color="red" width="200"/></td>
+    <td style="filter: invert(13%) sepia(94%) saturate(7466%) hue-rotate(0deg) brightness(94%) contrast(115%)"><img src="https://brandeps.com/icon-download/A/Aws-icon-vector-01.svg" width="200"/></td>
+    <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
+  </tr>
+  <tr>
+	  <td><img src="https://brandeps.com/icon-download/B/Bitbucket-icon-vector-04.svg"/></td>
+	  <td><img src="https://brandeps.com/logo-download/G/GitLab-Vertical-logo-vector-01.svg"/></td>
   </tr>
 
 </table>
